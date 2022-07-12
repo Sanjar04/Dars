@@ -1,0 +1,12 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.bgimgs{
+   background-image: url("../img/real.jpg");
+   
+   background-size: contain;
+   background-position:  +50px;
+   width: 500px;
+   height: 350px;
+}
